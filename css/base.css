@@ -338,6 +338,7 @@ body #cdawrap {
 
 .title {
 	padding-top: 0.3em;
+	padding-left: 10px;
 	line-height: 0.525;
 	font-size: 2rem;
 	font-family: "stinger-variable", sans-serif;
@@ -356,7 +357,7 @@ body #cdawrap {
 
 .title--down {
 	grid-area: title-down;
-	font-variation-settings: "wdth" 140, "wght" 350;
+	font-variation-settings: "wdth" 180, "wght" 350;
 }
 
 .content__text {
@@ -364,6 +365,8 @@ body #cdawrap {
 	text-transform: uppercase;
 	margin: 0;
 	opacity: 0.5;
+	padding-left: 12px;
+	padding-right: 12px;
 }
 
 @media screen and (min-width: 53em) {
