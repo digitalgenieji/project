@@ -357,7 +357,7 @@ body #cdawrap {
 
 .title--down {
 	grid-area: title-down;
-	font-variation-settings: "wdth" 180, "wght" 350;
+	font-variation-settings: "wdth" 80, "wght" 350;
 }
 
 .content__text {
